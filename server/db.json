@@ -1,0 +1,32 @@
+{
+    "projects": [
+        {
+            "id": 1,
+            "img_src": "images/ONline-book-store.jpg",
+            "type": "Java 2",
+            "title": "Bookstore Project",
+            "content": "Fetch data from txt ot csv file and update it based on the orders. Implemented searching and sorting algorithms. Implemented essetinal programming concepts such as inheritance, polymorphism, import packages, abstract classes, interfaces, methods overriding, and methods overloading"
+        },
+        {
+            "id":2,
+            "img_src": "images/1_9I7YlmYVFx3EgF5ermlKmQ.png",
+            "type": "Personal Project",
+            "title": "Sudoku Solver",
+            "content": "Developed a standalone Sudoku solver application using Java, allowing users to input Sudoku puzzles and receive solved solutions with efficiency and accuracy. Implemented and fine-tuned Sudoku-solving algorithms, showcasing strong problem-solving skills, logical reasoning, and attention to detail in algorithm design and optimization."
+        },
+        {
+            "id":3,
+            "img_src": "images/Google-Adds-New-Features-Making-Android-App-Development-Easy.jpg",
+            "type": "Mobile Application",
+            "title": "Android App",
+            "content": "Developed a secure Android application with OkHttp library for HTTP connections, enabling users to manage posts, with a focus on background threading for network calls. Implemented robust user authentication and data persistence using SharedPreferences, ensuring seamless user experiences, including login, registration, and logout functionality. Designed and built an intuitive and responsive user interface with multiple fragments, facilitating inter-fragment communication through the main activity, resulting in a cohesive user experience.Successfully incorporated dynamic post retrieval, display, and management features, including post creation, deletion, and pagination, demonstrating strong problem-solving skills and a comprehensive understanding of Android app development best practices."
+        },
+        {
+            "id":4,
+            "img_src": "images/Screenshot 2023-12-12 at 3.40.54 PM (2).png",
+            "type": "Software Engineering",
+            "title": "Web App",
+            "content": "Developed a secure Android application with OkHttp library for HTTP connections, enabling users to manage posts, with a focus on background threading for network calls. Implemented robust user authentication and data persistence using SharedPreferences, ensuring seamless user experiences, including login, registration, and logout functionality. Designed and built an intuitive and responsive user interface with multiple fragments, facilitating inter-fragment communication through the main activity, resulting in a cohesive user experience.Successfully incorporated dynamic post retrieval, display, and management features, including post creation, deletion, and pagination, demonstrating strong problem-solving skills and a comprehensive understanding of Android app development best practices."
+        }
+    ]
+}
